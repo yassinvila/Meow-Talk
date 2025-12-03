@@ -1,0 +1,7 @@
+ASCII Wiring Diagram:
+
+ESP32 --- E-Ink Display
+ |         |
+ VCC      VCC
+ GND      GND
+ ...

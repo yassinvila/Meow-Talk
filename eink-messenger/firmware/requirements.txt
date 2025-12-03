@@ -1,0 +1,4 @@
+# MicroPython requirements (example)
+urequests
+machine
+network
